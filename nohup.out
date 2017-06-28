@@ -1,0 +1,111 @@
+[W 05:52:35.652 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 05:52:35.653 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 05:52:35.655 NotebookApp] Serving notebooks from local directory: /home/asasopo1/assignment1
+[I 05:52:35.655 NotebookApp] 0 active kernels 
+[I 05:52:35.655 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:7000/
+[I 05:52:35.655 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:52:36.007 NotebookApp] Saving file at /knn.ipynb
+[W 05:53:05.495 NotebookApp] 404 GET /api/kernels/66c3f404-3a9f-41be-8ead-1310d9edc603/channels?session_id=797B661D8A944F6C909C2CB3A98C2C52 (60.191.68.43): Kernel does not exist: 66c3f404-3a9f-41be-8ead-1310d9edc603
+[W 05:53:05.500 NotebookApp] 404 GET /api/kernels/66c3f404-3a9f-41be-8ead-1310d9edc603/channels?session_id=797B661D8A944F6C909C2CB3A98C2C52 (60.191.68.43) 6.94ms referer=None
+[W 05:54:10.333 NotebookApp] 404 GET /api/kernels/66c3f404-3a9f-41be-8ead-1310d9edc603/channels?session_id=797B661D8A944F6C909C2CB3A98C2C52 (60.191.68.43): Kernel does not exist: 66c3f404-3a9f-41be-8ead-1310d9edc603
+[W 05:54:10.334 NotebookApp] 404 GET /api/kernels/66c3f404-3a9f-41be-8ead-1310d9edc603/channels?session_id=797B661D8A944F6C909C2CB3A98C2C52 (60.191.68.43) 2.58ms referer=None
+[I 05:54:46.556 NotebookApp] Kernel started: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[I 05:56:46.678 NotebookApp] Saving file at /knn.ipynb
+[I 05:58:47.002 NotebookApp] Saving file at /knn.ipynb
+[I 06:00:46.881 NotebookApp] Saving file at /knn.ipynb
+[I 06:14:47.028 NotebookApp] Saving file at /knn.ipynb
+[I 06:26:47.038 NotebookApp] Saving file at /knn.ipynb
+[I 06:28:46.816 NotebookApp] Saving file at /knn.ipynb
+[I 06:47:41.486 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:48:08.237 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:48:46.850 NotebookApp] Saving file at /knn.ipynb
+[I 06:52:02.060 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:52:42.515 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:52:46.798 NotebookApp] Saving file at /knn.ipynb
+[I 06:54:02.182 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:54:05.523 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:54:46.837 NotebookApp] Saving file at /knn.ipynb
+[I 06:55:06.409 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:56:47.021 NotebookApp] Saving file at /knn.ipynb
+[I 06:57:00.283 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 06:58:46.812 NotebookApp] Saving file at /knn.ipynb
+[I 06:59:59.011 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:00:29.932 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:00:46.820 NotebookApp] Saving file at /knn.ipynb
+[I 07:00:55.845 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:04:48.573 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[W 07:09:10.996 NotebookApp] WebSocket ping timeout after 90000 ms.
+[E 07:09:11.002 NotebookApp] Uncaught exception GET /api/kernels/c9ea81ae-180c-4a75-ae62-c79ce8a82d77/channels?session_id=C883DCD85B7A4EA8839DB5B08ADEE7D9 (60.191.68.43)
+    HTTPServerRequest(protocol='http', host='104.199.172.107:7000', method='GET', uri='/api/kernels/c9ea81ae-180c-4a75-ae62-c79ce8a82d77/channels?session_id=C883DCD85B7A4EA8839DB5B08ADEE7D9', version='HTTP/1.1', remote_ip='60.191.68.43', headers={'Origin': 'http://104.199.172.107:7000', 'Upgrade': 'websocket', 'Accept-Language': 'zh-CN,zh;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': '104.199.172.107:7000', 'Sec-Websocket-Key': 'FFfAZyHa9eN1TEOnpRzpCw==', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 188, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 07:11:12.971 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[W 07:12:53.416 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:13:29.606 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:13:37.306 NotebookApp] 302 GET / (60.191.68.43) 0.44ms
+[W 07:15:28.799 NotebookApp] WebSocket ping timeout after 90000 ms.
+[E 07:15:28.830 NotebookApp] Uncaught exception GET /api/kernels/c9ea81ae-180c-4a75-ae62-c79ce8a82d77/channels?session_id=D4C9F73228F1467E81C03CE1C23D9BF6 (60.191.68.43)
+    HTTPServerRequest(protocol='http', host='104.199.172.107:7000', method='GET', uri='/api/kernels/c9ea81ae-180c-4a75-ae62-c79ce8a82d77/channels?session_id=D4C9F73228F1467E81C03CE1C23D9BF6', version='HTTP/1.1', remote_ip='60.191.68.43', headers={'Origin': 'http://104.199.172.107:7000', 'Upgrade': 'websocket', 'Accept-Language': 'zh-CN,zh;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch', 'Sec-Websocket-Version': '13', 'Host': '104.199.172.107:7000', 'Sec-Websocket-Key': 'E1A4fAvZSX88lR0B43PhAw==', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36', 'Connection': 'Upgrade', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 188, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/asasopo1/assignment1/.env/local/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 07:17:36.349 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:19:45.376 NotebookApp] Saving file at /knn.ipynb
+[I 07:21:45.141 NotebookApp] Saving file at /knn.ipynb
+[I 07:22:28.972 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:23:45.629 NotebookApp] Saving file at /knn.ipynb
+[I 07:24:13.115 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:25:26.938 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:26:15.548 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:26:45.161 NotebookApp] Saving file at /knn.ipynb
+[I 07:27:13.577 NotebookApp] Kernel interrupted: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[I 07:27:16.557 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
+[I 07:27:28.751 NotebookApp] Kernel restarted: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[W 07:27:28.752 NotebookApp] zmq message arrived on closed channel
+[I 07:27:41.485 NotebookApp] Kernel restarted: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[I 07:28:45.015 NotebookApp] Saving file at /knn.ipynb
+[I 07:29:25.123 NotebookApp] Saving file at /knn.ipynb
+[I 07:30:45.084 NotebookApp] Saving file at /knn.ipynb
+[I 07:30:53.965 NotebookApp] Saving file at /knn.ipynb
+[I 07:32:45.557 NotebookApp] Saving file at /knn.ipynb
+[I 07:33:02.349 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:33:47.068 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:34:45.248 NotebookApp] Saving file at /knn.ipynb
+[I 07:35:47.007 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:36:45.078 NotebookApp] Saving file at /knn.ipynb
+[I 07:38:45.083 NotebookApp] Saving file at /knn.ipynb
+[I 07:51:54.454 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:52:11.402 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:52:42.412 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:52:45.154 NotebookApp] Saving file at /knn.ipynb
+[I 07:53:10.294 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:54:45.574 NotebookApp] Saving file at /knn.ipynb
+[I 07:57:51.217 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:58:32.025 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 07:58:45.128 NotebookApp] Saving file at /knn.ipynb
+[I 07:59:16.204 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 08:00:03.687 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 08:00:45.577 NotebookApp] Saving file at /knn.ipynb
+[I 08:04:17.380 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 08:04:37.886 NotebookApp] Saving file at /cs231n/classifiers/k_nearest_neighbor.py
+[I 08:04:45.256 NotebookApp] Saving file at /knn.ipynb

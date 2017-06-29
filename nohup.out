@@ -117,3 +117,52 @@ WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
 [I 08:42:45.427 NotebookApp] Saving file at /knn.ipynb
 [I 08:44:45.175 NotebookApp] Saving file at /knn.ipynb
 [I 08:48:45.133 NotebookApp] Saving file at /knn.ipynb
+[I 08:50:39.981 NotebookApp] Kernel interrupted: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[I 08:50:41.486 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
+[I 08:50:45.179 NotebookApp] Saving file at /knn.ipynb
+[I 08:51:00.360 NotebookApp] Kernel shutdown: c9ea81ae-180c-4a75-ae62-c79ce8a82d77
+[W 08:51:57.318 NotebookApp] Notebook svm.ipynb is not trusted
+[I 08:51:58.163 NotebookApp] Kernel started: 9fa72f96-8112-4d4a-b348-03f095a085d6
+[I 08:57:58.636 NotebookApp] Saving file at /svm.ipynb
+[I 09:09:58.751 NotebookApp] Saving file at /svm.ipynb
+[I 09:17:58.556 NotebookApp] Saving file at /svm.ipynb
+[I 11:15:04.649 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:15:58.743 NotebookApp] Saving file at /svm.ipynb
+[I 11:16:30.639 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:17:58.635 NotebookApp] Saving file at /svm.ipynb
+[I 11:18:13.816 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:19:22.882 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:19:58.478 NotebookApp] Saving file at /svm.ipynb
+[I 11:20:22.972 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[W 14:10:28.566 NotebookApp] WebSocket ping timeout after 119953 ms.
+[I 02:49:46.163 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 03:13:42.235 NotebookApp] Saving file at /svm.ipynb
+[I 04:08:39.371 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[W 05:01:11.764 NotebookApp] WebSocket ping timeout after 119954 ms.
+[W 05:09:04.970 NotebookApp] WebSocket ping timeout after 119844 ms.
+[W 05:35:25.950 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 06:09:12.026 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:09:42.060 NotebookApp] Saving file at /svm.ipynb
+[I 06:09:55.015 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:13:17.830 NotebookApp] Saving file at /svm.ipynb
+[I 06:14:37.609 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:15:17.821 NotebookApp] Saving file at /svm.ipynb
+[I 06:15:59.792 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:17:17.844 NotebookApp] Saving file at /svm.ipynb
+[I 06:17:32.337 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:17:50.275 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:18:51.251 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:19:14.668 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:19:17.841 NotebookApp] Saving file at /svm.ipynb
+[I 06:19:41.967 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:21:17.826 NotebookApp] Saving file at /svm.ipynb
+[I 06:21:53.362 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:22:18.705 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:23:17.816 NotebookApp] Saving file at /svm.ipynb
+[I 06:23:26.847 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:23:48.649 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:24:26.154 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:25:11.391 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:25:13.513 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 06:25:17.857 NotebookApp] Saving file at /svm.ipynb

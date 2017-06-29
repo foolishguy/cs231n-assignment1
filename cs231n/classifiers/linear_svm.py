@@ -63,7 +63,7 @@ def svm_loss_vectorized(W, X, y, reg):
     yi_scores = scores[np.arange(num_train), y]
 
     margins = np.maximum(0, scores - np.reshape(yi_scores, (-1,1)) + 1) 
-    margins[np.arange(num_train),y] = 0 
+    margins[np.arange(num_train), y] = 0 
 
     loss = np.mean(np.sum(margins, axis=1))
     loss += reg * np.sum(W * W)

@@ -186,3 +186,102 @@ WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
 [I 08:41:17.969 NotebookApp] Saving file at /svm.ipynb
 [I 08:43:15.829 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
 [I 08:43:18.023 NotebookApp] Saving file at /svm.ipynb
+[I 08:45:18.024 NotebookApp] Saving file at /svm.ipynb
+[I 08:46:11.695 NotebookApp] Kernel shutdown: 9fa72f96-8112-4d4a-b348-03f095a085d6
+[W 08:46:35.056 NotebookApp] Notebook softmax.ipynb is not trusted
+[I 08:46:35.582 NotebookApp] Kernel started: 99646370-b661-4204-b635-286cf93876f4
+[I 08:48:35.696 NotebookApp] Saving file at /softmax.ipynb
+[I 08:50:35.640 NotebookApp] Saving file at /softmax.ipynb
+[I 09:19:46.125 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[W 10:54:06.048 NotebookApp] WebSocket ping timeout after 119850 ms.
+[I 11:37:10.969 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 11:38:42.084 NotebookApp] Saving file at /softmax.ipynb
+[I 13:17:06.197 NotebookApp] 302 GET / (115.239.138.179) 0.45ms
+[W 14:21:26.353 NotebookApp] WebSocket ping timeout after 119949 ms.
+[W 14:38:46.370 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 03:12:29.152 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:13:06.793 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 03:13:19.233 NotebookApp] Saving file at /softmax.ipynb
+[I 03:13:39.058 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 03:14:05.957 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:14:39.330 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:15:23.033 NotebookApp] Saving file at /softmax.ipynb
+[I 03:16:23.399 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:17:19.215 NotebookApp] Saving file at /softmax.ipynb
+[I 03:29:03.179 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:29:19.230 NotebookApp] Saving file at /softmax.ipynb
+[I 03:36:07.232 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:37:19.221 NotebookApp] Saving file at /softmax.ipynb
+[I 03:39:02.972 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:39:19.197 NotebookApp] Saving file at /softmax.ipynb
+[I 03:39:56.638 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:40:33.029 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:41:18.822 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:41:19.174 NotebookApp] Saving file at /softmax.ipynb
+[I 03:42:18.438 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:43:12.452 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:43:19.178 NotebookApp] Saving file at /softmax.ipynb
+[I 03:44:07.321 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:45:00.678 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:45:19.185 NotebookApp] Saving file at /softmax.ipynb
+[I 03:46:23.594 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:47:19.180 NotebookApp] Saving file at /softmax.ipynb
+[I 03:47:51.957 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 03:49:19.180 NotebookApp] Saving file at /softmax.ipynb
+[I 03:59:49.529 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:00:19.210 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:00:30.506 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:00:51.918 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:01:19.231 NotebookApp] Saving file at /softmax.ipynb
+[I 04:01:27.857 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:02:00.760 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 04:03:19.182 NotebookApp] Saving file at /softmax.ipynb
+[I 05:42:37.752 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:43:19.292 NotebookApp] Saving file at /softmax.ipynb
+[I 05:43:37.473 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:43:53.857 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:22.771 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:58.786 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.355 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.415 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.437 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.475 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.492 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.525 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:44:59.575 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:45:19.293 NotebookApp] Saving file at /softmax.ipynb
+[I 05:45:24.444 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:45:53.078 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:47:19.245 NotebookApp] Saving file at /softmax.ipynb
+[I 05:53:37.588 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:55:10.368 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 05:55:19.289 NotebookApp] Saving file at /softmax.ipynb
+[I 05:55:41.251 NotebookApp] Saving file at /softmax.ipynb
+[I 05:55:59.132 NotebookApp] Saving file at /softmax.ipynb
+[I 05:57:19.241 NotebookApp] Saving file at /softmax.ipynb
+[I 05:59:49.928 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 06:01:19.305 NotebookApp] Saving file at /softmax.ipynb
+[I 06:01:33.502 NotebookApp] Kernel started: 41a299ce-8710-4775-b1a7-702ab2b86cd0
+[I 06:03:19.313 NotebookApp] Saving file at /softmax.ipynb
+[I 06:05:19.251 NotebookApp] Saving file at /softmax.ipynb
+[I 06:06:04.683 NotebookApp] Saving file at /softmax.ipynb
+[I 06:07:19.250 NotebookApp] Saving file at /softmax.ipynb
+[I 06:09:09.469 NotebookApp] Saving file at /softmax.ipynb
+[I 06:09:19.251 NotebookApp] Saving file at /softmax.ipynb
+[I 06:10:58.085 NotebookApp] Saving file at /softmax.ipynb
+[I 06:11:19.249 NotebookApp] Saving file at /softmax.ipynb
+[I 06:12:39.238 NotebookApp] Saving file at /softmax.ipynb
+[I 06:13:19.269 NotebookApp] Saving file at /softmax.ipynb
+[I 06:14:55.156 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 06:15:19.272 NotebookApp] Saving file at /softmax.ipynb
+[I 06:16:57.816 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 06:17:19.268 NotebookApp] Saving file at /softmax.ipynb
+[I 06:18:56.284 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 06:19:19.277 NotebookApp] Saving file at /softmax.ipynb
+[I 06:20:54.102 NotebookApp] Saving file at /cs231n/classifiers/softmax.py
+[I 06:21:19.277 NotebookApp] Saving file at /softmax.ipynb
+[I 06:21:21.372 NotebookApp] Kernel shutdown: 41a299ce-8710-4775-b1a7-702ab2b86cd0
+[W 06:21:34.005 NotebookApp] Notebook two_layer_net.ipynb is not trusted
+[I 06:21:34.751 NotebookApp] Kernel started: 01178445-ccaa-45e2-93fd-c66112072951
+[I 06:23:19.416 NotebookApp] Saving file at /softmax.ipynb
+[I 06:24:20.388 NotebookApp] Kernel shutdown: 99646370-b661-4204-b635-286cf93876f4

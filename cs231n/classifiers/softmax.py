@@ -20,22 +20,10 @@ def softmax_loss_naive(W, X, y, reg):
   - loss as single float
   - gradient with respect to weights W; an array of same shape as W
   """
-  # Initialize the loss and gradient to zero.
   loss = 0.0
   dW = np.zeros_like(W)
 
-  #############################################################################
-  # TODO: Compute the softmax loss and its gradient using explicit loops.     #
-  # Store the loss in loss and the gradient in dW. If you are not careful     #
-  # here, it is easy to run into numeric instability. Don't forget the        #
-  # regularization!                                                           #
-  #############################################################################
-  pass
-  #############################################################################
-  #                          END OF YOUR CODE                                 #
-  #############################################################################
-
-  return loss, dW
+  return softmax_loss_vectorized(W, X, y, reg)
 
 
 def softmax_loss_vectorized(W, X, y, reg):
@@ -47,17 +35,20 @@ def softmax_loss_vectorized(W, X, y, reg):
   # Initialize the loss and gradient to zero.
   loss = 0.0
   dW = np.zeros_like(W)
+  num_train = X.shape[0]
 
-  #############################################################################
-  # TODO: Compute the softmax loss and its gradient using no explicit loops.  #
-  # Store the loss in loss and the gradient in dW. If you are not careful     #
-  # here, it is easy to run into numeric instability. Don't forget the        #
-  # regularization!                                                           #
-  #############################################################################
-  pass
-  #############################################################################
-  #                          END OF YOUR CODE                                 #
-  #############################################################################
+  scores = X.dot(W)
+  Y = np.exp(scores)
+  Y = Y / np.sum(Y, axis=1)[None].T
+  T = np.eye(W.shape[1])[y]
+  loss = T * np.log(Y)
+
+  dW = np.dot(X.T, Y - T)
+
+  loss = -np.sum(loss) / num_train
+  loss += 0.5 * reg * np.sum(W * W)
+  dW /= num_train
+  dW += reg * W
 
   return loss, dW
 

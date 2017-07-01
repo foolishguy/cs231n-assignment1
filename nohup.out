@@ -327,3 +327,35 @@ WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
 [I 06:38:34.763 NotebookApp] Saving file at /two_layer_net.ipynb
 [I 06:38:44.795 NotebookApp] Saving file at /two_layer_net.ipynb
 [I 06:41:17.946 NotebookApp] Kernel shutdown: 921417f5-5ce5-4639-beea-affd2080b6a0
+[I 06:44:03.378 NotebookApp] Saving file at /features.ipynb
+[I 06:45:59.335 NotebookApp] Kernel started: 8f7f6370-baa1-4f8e-97ff-448ef9d5a3b1
+[I 06:46:03.413 NotebookApp] Saving file at /features.ipynb
+[I 06:48:03.385 NotebookApp] Saving file at /features.ipynb
+[I 06:49:59.795 NotebookApp] Saving file at /svm.ipynb
+[I 06:52:03.418 NotebookApp] Saving file at /features.ipynb
+[I 06:55:59.756 NotebookApp] Saving file at /svm.ipynb
+[I 07:00:05.453 NotebookApp] Saving file at /features.ipynb
+[I 07:01:35.592 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 07:01:58.989 NotebookApp] Saving file at /svm.ipynb
+[I 07:03:58.914 NotebookApp] Saving file at /svm.ipynb
+[I 07:05:58.900 NotebookApp] Saving file at /svm.ipynb
+[I 07:06:05.390 NotebookApp] Saving file at /features.ipynb
+[I 07:08:05.437 NotebookApp] Saving file at /features.ipynb
+[I 07:10:05.684 NotebookApp] Saving file at /features.ipynb
+[I 07:12:05.569 NotebookApp] Saving file at /features.ipynb
+[I 07:14:05.701 NotebookApp] Saving file at /features.ipynb
+[I 07:15:21.172 NotebookApp] Kernel shutdown: 8f7f6370-baa1-4f8e-97ff-448ef9d5a3b1
+[I 07:15:37.511 NotebookApp] Kernel started: b5069196-29bb-4ffe-a4f3-27d5b54f1669
+[I 07:16:05.734 NotebookApp] Saving file at /features.ipynb
+[I 07:18:05.613 NotebookApp] Saving file at /features.ipynb
+[I 07:20:05.583 NotebookApp] Saving file at /features.ipynb
+[I 07:26:05.791 NotebookApp] Saving file at /features.ipynb
+[I 07:30:05.614 NotebookApp] Saving file at /features.ipynb
+[I 07:32:05.573 NotebookApp] Saving file at /features.ipynb
+[I 07:36:05.593 NotebookApp] Saving file at /features.ipynb
+[I 07:42:05.804 NotebookApp] Saving file at /features.ipynb
+[I 07:44:05.599 NotebookApp] Saving file at /features.ipynb
+[I 07:46:05.606 NotebookApp] Saving file at /features.ipynb
+[I 07:48:05.588 NotebookApp] Saving file at /features.ipynb
+[I 07:52:05.609 NotebookApp] Saving file at /features.ipynb
+[I 07:54:05.609 NotebookApp] Saving file at /features.ipynb

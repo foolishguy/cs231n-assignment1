@@ -285,3 +285,45 @@ WARNING:root:kernel c9ea81ae-180c-4a75-ae62-c79ce8a82d77 restarted
 [I 06:21:34.751 NotebookApp] Kernel started: 01178445-ccaa-45e2-93fd-c66112072951
 [I 06:23:19.416 NotebookApp] Saving file at /softmax.ipynb
 [I 06:24:20.388 NotebookApp] Kernel shutdown: 99646370-b661-4204-b635-286cf93876f4
+[I 06:25:13.869 NotebookApp] Saving file at /softmax.ipynb
+[I 06:25:22.422 NotebookApp] Saving file at /softmax.ipynb
+[W 06:25:25.631 NotebookApp] Kernel does not exist: 99646370-b661-4204-b635-286cf93876f4
+[W 06:25:25.632 NotebookApp] 404 POST /api/kernels/99646370-b661-4204-b635-286cf93876f4/interrupt (60.191.68.43) 1.00ms referer=http://104.199.172.107:7000/notebooks/softmax.ipynb
+[I 07:07:39.293 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 07:43:39.301 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:39:12.218 NotebookApp] Kernel started: 08741fb6-331d-4715-bff6-73f0340d0190
+[I 03:41:41.510 NotebookApp] Kernel shutdown: 08741fb6-331d-4715-bff6-73f0340d0190
+[I 04:43:05.683 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 04:43:39.786 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 04:44:39.447 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 04:45:39.742 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 04:49:25.767 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 04:49:39.740 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 04:51:39.744 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:09:52.317 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 05:11:39.792 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:18:04.181 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 05:19:40.092 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:33:40.189 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:41:40.541 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:43:40.290 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:44:03.662 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:45:40.420 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:47:40.210 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:49:40.130 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:51:40.159 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:53:40.169 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:55:40.139 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:56:13.104 NotebookApp] Kernel interrupted: 01178445-ccaa-45e2-93fd-c66112072951
+[I 05:56:25.514 NotebookApp] Kernel shutdown: 01178445-ccaa-45e2-93fd-c66112072951
+[I 05:56:33.947 NotebookApp] Kernel started: 921417f5-5ce5-4639-beea-affd2080b6a0
+[I 05:56:59.518 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:57:23.235 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 05:58:34.393 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 06:00:34.444 NotebookApp] Saving file at /two_layer_net.ipynb
+[W 06:10:02.763 NotebookApp] Notebook features.ipynb is not trusted
+[I 06:10:03.288 NotebookApp] Kernel started: 87acd0a7-b8eb-4325-9abc-a719d21f4dcf
+[I 06:36:34.730 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 06:38:34.763 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 06:38:44.795 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 06:41:17.946 NotebookApp] Kernel shutdown: 921417f5-5ce5-4639-beea-affd2080b6a0
